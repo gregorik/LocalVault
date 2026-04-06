@@ -4,6 +4,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
+<br/>
+
+[![LocalVault Demo](https://img.youtube.com/vi/Yl1r3YHAncg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yl1r3YHAncg)
+
+<br/>
+
 **LocalVault Core** is an essential, open-source utility plugin for Unreal Engine 5 that bridges the gap between Epic's cloud-based Fab ecosystem and your local offline development environment. 
 
 By running a fast, local-first cache scan (Zero-API strategy), LocalVault Core gives you back ownership of your downloaded assets. Tag, filter, and permanently back up your 3D models, materials, and VFX—all without leaving the Editor.
