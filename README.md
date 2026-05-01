@@ -17,6 +17,8 @@
 
 By running a fast, local-first cache scan (Zero-API strategy), LocalVault Core gives you back ownership of your downloaded assets. Tag, filter, and permanently back up your 3D models, materials, and VFX—all without leaving the Editor.
 
+If you have consulting and/or custom pipeline integration in mind: I offer dedicated architecture consulting. 📬 Please [contact me](https://gregorigin.com/contact.html) or see my [extended portfolio](https://www.gregorigin.com/Portfolio/). 👨‍💻 
+
 <br/>
 
 ## 🎯 Why LocalVault?
